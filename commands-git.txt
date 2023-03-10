@@ -9,3 +9,5 @@ Git push :
 
 ou -> git push --force
 pour forcer la mise à jour de la branche
+
+git pull
