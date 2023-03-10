@@ -1,0 +1,11 @@
+Git clone -> git clone https://github.com/user/repo.git
+
+
+Git push :
+
+-> git add nom_fichier_modifié
+-> git commit -m "Message de commit décrivant les modifications"
+-> git push
+
+ou -> git push --force
+pour forcer la mise à jour de la branche
